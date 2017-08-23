@@ -1,0 +1,7 @@
+open ttyUSB0
+put geiger.py
+put lcd_api.py
+put nodemcu_gpio_lcd.py
+put SSID
+put CHANNEL
+put main.py
